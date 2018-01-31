@@ -1,0 +1,71 @@
+/*Base Styles*/
+
+body {
+	background-color: #ddd;
+}
+
+.m-section {
+	max-width: 960px;
+}
+
+.about-me {
+	width: 650px;
+	background-color: #fff;
+	float: left;
+	margin: 25px 0px 0px 10%;
+}
+
+.connect {
+	width: 270px;
+	background-color: #fff;
+	float: right;
+	margin-top: 25px;
+}
+
+/*Header*/
+
+.navbar	{
+	background-color: #fff;
+	overflow: hidden;
+	border-bottom: solid #ccc;
+}
+
+.navbar h1 {
+	color: #fff;
+	float: left;
+	text-align: center;
+	margin: 0px 0px 0px 40px;
+	padding: 14px 16px;
+	font-size: 40px;
+	background-color: #4aaaa5;
+}
+.navbar a {
+	float: right;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+	color: #777;
+	margin-right: 2%;
+}
+
+/*Body*/
+
+.about-me h2 {
+	color: #4aaaa5;
+	font-size: 40px;
+	margin: 20px 0px 20px 25px;
+	border-bottom: solid #ccc; 
+}
+
+img {
+	width: 175px;
+	height: 175px;
+	float: left;
+	margin: 0 10px 10px 20px;
+}
+
+.about-me p {
+	font-size: 25px;
+	margin: 0 10px 10px 30px;
+}
